@@ -1,0 +1,10 @@
+
+* { font-family: verdana; }
+
+p, ul { color: rgb(69, 83, 207); }
+
+.heading { color: rgb(0, 128, 128); }
+
+table#schedule, fieldset#contact { background-color: rgb(220, 254, 205); }
+
+legend { font-weight: bold; }
